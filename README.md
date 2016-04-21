@@ -1,6 +1,9 @@
 ### Hire a Shopify Developer
 Shopify Developer: Hire a professional Shopify Developer to fit your business
 
+###Create a Shopify Store
+Visit [Shopify](http://www.shopify.com/?ref=erp-boost)
+
 ###Why do you need to hire a Professional Shopify Developer?
 - Need have knowledge on shopify site setup
 - Need have knowledge on shopify theme development ability
